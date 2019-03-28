@@ -1,5 +1,7 @@
 # MMA_Top_Fighting_Camp
 
+I have tried to run this project on multiple platforms, one on a mac and one on a linux and it runs just fine, tried on three windows platforms and gets a codec error thrown. You may need to do a pip upgrade. python -m install --upgrade pip.
+
 Start up:
 
 1. Clone and download files from GitHub
