@@ -1,7 +1,5 @@
 # MMA_Top_Fighting_Camp
 
-I have tried to run this project on multiple platforms, one on a mac and one on a linux and it runs just fine, tried on three windows platforms and gets a codec error thrown.
-
 Start up:
 
 1. Clone and download files from GitHub
@@ -11,7 +9,7 @@ Start up:
 5. You will need import pandas as pd
 6. You will need import sqlite3
 7. You will need import matplotlib.pyplot as plt if you do not already have installed in order to view this repository
-8. You will need to make sure you are running Pandas 0.23.4 or higher to view this project
+
 
 
 This project was inspired by my love of MMA fighting, I am a retired fighter myself specializing in Muay Thai and Brazilian Jiu Jitsu as my art forms of choice.
