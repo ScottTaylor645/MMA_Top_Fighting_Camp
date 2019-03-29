@@ -2,7 +2,7 @@
 
 Start up:
 
-1. Clone and download files from GitHub
+1. Clone or download files from GitHub
 2. Open MMA_Top_Fighters.ipynb in jupyter notebooks through Anocanda.
 3. Run all of the cells
 4. You will need to import numpy as np
@@ -18,7 +18,7 @@ It proved to be a little bit more tedious to come to my conclusion than I initia
 
 My goal was to see who is the training center who produces the top fighters. 
 
-Above some of the cells you will discover some markdown explaining what is going on with my code. 
+Above some of the cells you will discover some markdown text explaining what is going on with my code. 
 
 This journey has showed me alot about the training camps and who is producing great fighters. I also learned from visiting the  wins, loses, and tkos pie chart it shows that tkos displays a dominant position in the three catagories.
 
